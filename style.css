@@ -1,21 +1,64 @@
 /* REGLES DE STYLE THEMES */
 
-.fz-header{}
-.fz-sub-header{}
-.fz-title{}
-.fz-text{}
+.fz-header{
+    font-size: 70px;
+    font-weight: 700;
+    text-align: right;
+}
+.fz-sub-header{
+    font-size: 36px;
+    font-weight: 400;
+    text-align: right;
+}
 
-.bg-gray-light{}
-.bg-gray-heavy{}
-.bg-aqua{}
 
-.txt-color{}
+.fz-title{
+    font-weight: 900;
+    font-size: 48px;
+    padding: 15px 0;
+}
+
+.fz-text{ 
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.bg-gray-light{
+    background: #535353;
+}
+.bg-gray-heavy{
+    background: #414141;
+}
+.bg-aqua{
+    background: #34c5e8;
+}
+
+.txt-color-blue{
+    color:#34c5e8;
+}
+
+.txt-white{
+    color:#fff;
+}
 
 
 /* REGLES DE STYLE DIMENSIONS */
 
-.profil-img{}
+.py-standard{
+    padding: 20px 0;
+}
+
+.py-standard-2{
+    padding: 30px 0;
+}
+
+.profil-img{
+    border-radius: 25%;
+}
+
 .progress-bar{}
-.separator{}
+.separator{
+    padding: 15px 0;
+}
 
 /* REGLES DE STYLE DISPOSITION */
