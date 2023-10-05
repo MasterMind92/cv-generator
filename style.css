@@ -31,13 +31,15 @@
 }
 
 .bg-aqua{
-    background: #34c5e8;
+    background: #ff9ff3;
 }
 
 .txt-color-blue{
-    color:#34c5e8;
+    color:#ff9ff3;
 }
 
+/* rose:#ff9ff3  */
+/* bleu-clair: #34c5e8 */
 .txt-white{
     color:#fff;
 }
@@ -76,7 +78,7 @@
   border-radius: 50%;
   display: inline-block; */
   /* line-height: 2rem; */
-  color: #34c5e8;
+  color: #ff9ff3;
   /* text-align: center;
   margin-right: 0.5rem; */
  }
